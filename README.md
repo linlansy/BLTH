@@ -222,4 +222,5 @@
 作者：[一心向晚](https://github.com/XiaoMiku01)
 
 - [Github](https://github.com/XiaoMiku01/fansMedalHelper)
+    
 Python 项目：自动完成直播区签到，点赞 ，分享，弹幕打卡，观看 30 分钟等任务。
